@@ -4,16 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `Первоначальная настройка сервера с ОС Ubuntu 18.04`
+### `ОС Ubuntu 18.04`
 
-Runs the app in the development mode.<br />
-Open [https://www.digitalocean.com/community/tutorials/ubuntu-18-04-ru/](Настройка сервера) to view it in the browser.
+[Настройка сервера](https://www.digitalocean.com/community/tutorials/ubuntu-18-04-ru/)
+[Создать ssh-ключи на Windows](https://www.digitalocean.com/docs/droplets/how-to/add-ssh-keys/create-with-putty/)
+[Как установить и использовать Docker в Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/docker-ubuntu-18-04-1-ru)
+[Установка Docker Compose в Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04-ru)
 
 
-### `Создать ключи SSH на Windows`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://www.digitalocean.com/docs/droplets/how-to/add-ssh-keys/create-with-putty/) for more information.
 
 ### `yarn build`
 
