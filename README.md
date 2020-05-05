@@ -7,7 +7,7 @@ In the project directory, you can run:
 ### `Первоначальная настройка сервера с ОС Ubuntu 18.04`
 
 Runs the app in the development mode.<br />
-Open [https://www.digitalocean.com/community/tutorials/ubuntu-18-04-ru](Настройка сервера) to view it in the browser.
+Open [https://www.digitalocean.com/community/tutorials/ubuntu-18-04-ru/](Настройка сервера) to view it in the browser.
 
 
 ### `Создать ключи SSH на Windows`
